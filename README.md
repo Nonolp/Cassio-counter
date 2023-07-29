@@ -53,7 +53,7 @@ List of the available champions
 
 -Malzahar
 
--Naafiri (only spells cd)
+-Naafiri **(only spells cd)**
 
 -Neeko
 
