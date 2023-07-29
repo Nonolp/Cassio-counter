@@ -9,8 +9,11 @@ Current version : V1.0
 
 List of the available champions
 -Ahri
+
 -Akali
+
 -Anivia
+
 -Annie
 -Aurelion Sol
 -Azir
