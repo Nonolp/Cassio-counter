@@ -1,5 +1,5 @@
 # Cassio-counter
-Cassio counter is a C++ program allowing to give advice to cassiopeia players on certain matchups.
+Cassio counter is a C++ program allowing to give advice to cassiopeia players on certain matchups (only available in french). 
 
 Write the opposing champion's name for matchup tips
 
