@@ -5,8 +5,7 @@ Write the opposing champion's name for matchup tips
 
 Made by Nonolp. **(this is my first project)**
 
-Current version : V1.0
-![cass-lit](https://github.com/Nonolp/Cassio-counter/assets/78102501/4dbfee18-c049-4fdf-b498-2d49e8b4ce86)
+Current version : V1.0 ![cass-lit](https://github.com/Nonolp/Cassio-counter/assets/78102501/62388821-4dcc-4eef-a1ac-cce5ddbc34e2)
 
 
 # List of the available champions
