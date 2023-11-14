@@ -10,7 +10,7 @@ std::unordered_map<std::string, std::vector<std::string>> championRoles;
 // Déclaration d'une table de hachage (std::unordered_map) appelée championRoles.
 // La clé de la table de hachage est de type std::string (une chaîne de caractères).
 // La valeur associée à chaque clé est un vecteur (std::vector) de chaînes de caractères (std::string).
-// Cette structure permet d'associer les noms des champions à leurs rôles dans le jeu League of Legends.
+// Cette structure permet d'associer les noms des champions à leurs rôles 
 
 HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE); //permet de manipuler la couleur du texte
 
